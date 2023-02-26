@@ -6,3 +6,4 @@ feature dev 2 commit 1
 feature dev 2 commit 1
 dev hotfix 4
 dev hotfix 5
+dev hotfix 6
